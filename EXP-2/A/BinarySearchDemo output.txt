@@ -1,0 +1,7 @@
+Enter total number of elements:
+5
+Enter elements in sorted order:
+2 4 6 8 9
+Enter the search value:
+4
+number found

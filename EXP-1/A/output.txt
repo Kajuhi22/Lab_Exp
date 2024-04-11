@@ -1,0 +1,9 @@
+The default values of primitive data types are:
+Byte :0
+Short :0
+Int :0
+Long :0
+Float :0.0
+Double :0.0
+Char :
+Boolean :false

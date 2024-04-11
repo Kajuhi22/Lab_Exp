@@ -1,0 +1,2 @@
+This is in B's method 
+This is C's method 

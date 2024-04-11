@@ -1,0 +1,44 @@
+AIM: A case study on public static void main(250 words)  
+Case study:  
+The SOURCE-CODE structure of a simple java SOURCE-CODE is given below 
+with different steps  
+Step-1: Click start+run and then type notepad in run dialog box and click OK. It 
+displays Notepad. 
+Step-2: In run dialogbox type cmd and click OK. It displays command prompt.  
+Step-3: Type the following SOURCE-CODE in the Notepad and save the 
+SOURCE-CODE as “example.java” in a current working directory. 
+class example  
+{  
+public static void main(String args[])  
+{  
+System.out.println(“Welcome”);  
+}  
+}  
+Step-4 (Compilation): To compile the program type the following in current 
+working directory and then click enter.  
+c:\xxxx >javac example.java  
+Step-5 (Execution): To run the program type the following in current working 
+directory and then click enter.  
+c:\xxxx>java example 
+Explanation:  
+• Generally the file name and class name should be same. If it is not same then 
+the java file can be compiled but it cannot be executed. That is when 
+execution it gives the following error  
+Exception in thread "main" java.lang.NoClassDefFoundError: ex 
+• In “public static void main(String args[])” statement 
+• public is an access specifier. If a class is visible to all classes then public is 
+used 
+• main() must be declared as public since it must be called by outside of its 
+class. 
+• The keyword static allows main() to be called without creating object of the 
+class. 
+• The keyword void represents that main( ) does not return a value. 
+• The main method contains one parameter String args[]. 
+• We can send some input values (arguments) at run time to the String args[] 
+of the main method . These arguments are called command line arguments. 
+These command line arguments are passed at the command prompt. 
+• In System.out.println("Welcome"); statement 
+• System is a predefined class that provides access to the system. 
+• out is the OUT-PUT stream. 
+• println() method display the OUT-PUT in different lines. If we use print() 
+method it display the OUT-PUT in the same line 

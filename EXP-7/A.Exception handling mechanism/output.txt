@@ -1,0 +1,2 @@
+java.lang.ArithmeticException: / by zero 
+After the catch statement 

@@ -1,0 +1,2 @@
+The area is: 300  
+The area is: 100
