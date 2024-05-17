@@ -70,3 +70,22 @@ printf("the average waiting time is %f\n",awt);
 printf("the average turn around time is %f\n",att);
 
 }
+
+4 
+
+9
+
+8 
+
+3
+
+
+
+0 
+
+2 
+
+4 
+
+3
+
